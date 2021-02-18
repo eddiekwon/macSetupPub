@@ -37,11 +37,21 @@ ctrl + L : clear.
 ctrl + d : delete.
 ctrl + k : 현재 커서부터 해당 라인 끝까지 텍스트 삭제
 
- 
+### Xcode 설치
+do this first !
+
 ### 코코아팟 설치.
+
+brew install cocoapods
 
 아래 해야하나? 그런가보.
 ```
 sudo gem install ffi
 ```
 https://stackoverflow.com/questions/64901180/running-cocoapods-on-apple-silicon-m1
+
+### swiftlint 설치
+
+brew install swiftlint
+
+
