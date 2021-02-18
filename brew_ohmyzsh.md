@@ -56,3 +56,8 @@ https://stackoverflow.com/questions/64901180/running-cocoapods-on-apple-silicon-
 brew install swiftlint
 ```
 
+기타 참고
+```
+brewfiles 설치할것등
+```
+
