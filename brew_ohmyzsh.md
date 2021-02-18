@@ -18,13 +18,20 @@ https://tech.ssut.me/apple-silicon-m1-mac-mini-review/
 ```
 
 ## oh-my-zsh 설치
+```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-
+```
 ## theme 설정하기
-agnoster설정함
-
+vi에서 agnoster설정함
+```
+$ vim ~/.zshrc
+$ ZSH_THEME="agnoster"
+```
 ## 폰트깨짐 수정 
 D2CodingLigature 등의 폰트를 설치함
+```
+https://github.com/naver/d2codingfont
+```
 
 ## color preset 설정하기
 https://iterm2colorschemes.com
