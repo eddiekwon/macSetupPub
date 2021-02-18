@@ -61,3 +61,20 @@ brew install swiftlint
 brewfiles 설치할것등
 ```
 
+### install apps
+```
+android studio
+telegram
+slack
+visual studio code
+postman
+
+```
+
+### install mac apps
+```
+snappy - capture tool
+xcode
+
+```
+
