@@ -1,7 +1,7 @@
 ## Brew설치법
-
+```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
+```
 m1 arm인 경우  에러가 나오면 아래처럼 타이핑하면 됨
 
 echo "export PATH=/opt/homebrew/bin:$PATH" >> ~/.zshrc
@@ -31,19 +31,20 @@ https://iterm2colorschemes.com
 scheme 폴더에 있느 파일들 import시키면 됨
 
 ## 맥 터미널 커맨드라인 단축키
+```
 ctrl + A : 라인 맨 앞으로 커서 이동
 ctrl + E : 라인 맨 뒤로 커서 이동
 ctrl + L : clear.
 ctrl + d : delete.
 ctrl + k : 현재 커서부터 해당 라인 끝까지 텍스트 삭제
-
+```
 ### Xcode 설치
 do this first !
 
 ### 코코아팟 설치.
-
+```
 brew install cocoapods
-
+```
 아래 해야하나? 그런가보.
 ```
 sudo gem install ffi
@@ -51,7 +52,7 @@ sudo gem install ffi
 https://stackoverflow.com/questions/64901180/running-cocoapods-on-apple-silicon-m1
 
 ### swiftlint 설치
-
+```
 brew install swiftlint
-
+```
 
